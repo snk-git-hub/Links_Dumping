@@ -12,3 +12,14 @@
 > | **RUST**|8`https://petal-estimate-4e9.notion.site/Rust-for-Solana-contracts-1937dfd1073580c8a8fbc7e135e6d22a`|
 > | **BUILD OS USING RUST**|9`https://os.phil-opp.com/`|
 > | **Rust Project**| 10 `https://codecrafters.io/blog/rust-projects`|
+> |**Servo: https://github.com/servo/servo**|
+> |**Actix Web: https://github.com/actix/actix-web**|
+> |**Ripgrep: https://github.com/BurntSushi/ripgrep**|
+> |**Rocket: https://github.com/tw12/Rocket**|
+> |**Tokei: https://github.com/XAMPPRocky/tokei**|
+> |**Bevy: https://github.com/bevyengine/bevy**|
+> |**TiKV: https://github.com/tikv/tikv**|
+> |**Deno: https://github.com/denoland/deno**|
+> |**Exa: https://github.com/ogham/example**|
+
+
