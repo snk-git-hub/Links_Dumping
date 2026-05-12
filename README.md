@@ -22,3 +22,4 @@ Here's the corrected and properly formatted table:
 | **Exa** | https://github.com/ogham/exa |
 | **cpp** | https://refactoring.guru/design-patterns/adapter |
 | **VIM EDITOR** | https://medium.com/better-programming/50-vim-mode-tips-for-ide-users-f7b525a794b3
+| **EMBEDDED** | https://drive.google.com/file/d/111AEVzwC55wM5WjSD4M6vp4Gk12ILMfv/view
